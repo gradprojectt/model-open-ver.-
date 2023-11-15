@@ -11,3 +11,6 @@
 
 ### 실시간 립 적용 화면
 ![image](https://github.com/gradprojectt/model-open-ver.-/assets/76712706/29747c6c-06af-4d75-8f6e-5efa3fd246c6)
+
+### 레퍼런스
+https://github.com/YBIGTA/CatchTone/blob/master/README.md
